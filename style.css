@@ -1,0 +1,26 @@
+* {
+   /* outline: 2px solid red;*/
+}
+
+body{
+    background: linear-gradient(to bottom left, orange, white);
+}
+
+.container {
+    background: white;
+    text-align: center;
+}
+
+table{
+    margin-left:auto;
+    margin-right: auto;
+    border: 1px solid orange;
+}
+
+th, td{
+    border: 1px solid orange;
+}
+
+.buttons{
+    border: 1px;
+}
