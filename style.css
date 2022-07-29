@@ -9,6 +9,10 @@ body{
 .container {
     background: white;
     text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 table{
@@ -22,5 +26,17 @@ th, td{
 }
 
 .buttons{
-    border: 1px;
+    border: 1px solid black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.flip-btn{
+    background: linear-gradient(to bottom left, lightblue, white);
+}
+
+.reset{
+    background: linear-gradient(to bottom left, orange, white);
 }
